@@ -1,6 +1,6 @@
-# 🌐 doTask
+# 🌐 DoTask
 
-**doTask** is a simple task-sharing web app that helps people post jobs and find someone who can handle them. It works like a lightweight marketplace: you can create tasks, make offers, manage the workflow, and chat in real time, all in one place.
+**DoTask** is a simple task-sharing web app that helps people post jobs and find someone who can handle them. It works like a lightweight marketplace: you can create tasks, make offers, manage the workflow, and chat in real time, all in one place.
 
 ---
 
