@@ -38,8 +38,11 @@
 
 ---
 
-Video
+## 🍿 Video
 
+![Project Demo](./PortfolioProjektGif.gif)
 
-The full code lives in a private repo.
-If you're a recruiter or would like to take a look under the hood, just reach out, I can share access on request.
+---
+
+The full source code is stored in a private repository.
+If you're a recruiter or hiring manager and would like to review it, feel free to reach out, I can share access on request.
