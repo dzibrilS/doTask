@@ -26,7 +26,7 @@
 - Status flow: *proposal → in progress → to confirm → payment → done*  
 
 ### **Auth & profiles**
-- Sign up, login, password reset )  
+- Sign up, login, password reset   
 - Simple user context for session handling  
 
 ### **Real-time chat**
